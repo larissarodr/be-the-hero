@@ -8,6 +8,13 @@ Project created on the OmniStack Week 11.0 provided by [RocketSeat](https://rock
 
 This application allows Non-governmental Organizations (ONGs) to register their incidents in order to find a supporter.
 
+<p align="center">
+  <img width="500" src="https://github.com/larissarodr/omnistack-week/blob/master/frontend/src/assets/login.PNG" />
+  <img width="500" src="https://github.com/larissarodr/omnistack-week/blob/master/frontend/src/assets/registration.PNG" />
+  <img width="500" src="https://github.com/larissarodr/omnistack-week/blob/master/frontend/src/assets/incidents.PNG" />
+  <img width="500" src="https://github.com/larissarodr/omnistack-week/blob/master/frontend/src/assets/allincidents.PNG" />
+</p>
+
 The mobile app is dedicated to individuals (heroes) so they can find incidents to support.
 
 ## Technologies
