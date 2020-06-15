@@ -1,8 +1,14 @@
+<div style="text-align:center">
+  <img width="200" src="https://github.com/larissarodr/omnistack-week/blob/master/frontend/src/assets/logo.svg" />
+</div>
+
 # omnistack-week - Be The Hero
 
 Project created on the OmniStack Week 11.0 provided by [RocketSeat](https://rocketseat.com.br/).
 
-This application allows Non-governmental Organizations to register their incidents in order to find a supporter. The mobile app is dedicated to individuals (heroes) so they can find incidents to support.
+This application allows Non-governmental Organizations (ONGs) to register their incidents in order to find a supporter.
+
+The mobile app is dedicated to individuals (heroes) so they can find incidents to support.
 
 ## Technologies
 - Node.js - Backend
