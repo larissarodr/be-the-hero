@@ -1,6 +1,6 @@
-<div style="text-align:center">
+<p align="center">
   <img width="200" src="https://github.com/larissarodr/omnistack-week/blob/master/frontend/src/assets/logo.svg" />
-</div>
+</p>
 
 # omnistack-week - Be The Hero
 
