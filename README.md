@@ -2,7 +2,7 @@
   <img width="200" src="https://github.com/larissarodr/omnistack-week/blob/master/frontend/src/assets/logo.svg" />
 </p>
 
-# omnistack-week - Be The Hero
+# Be The Hero
 
 Project created on the OmniStack Week 11.0 provided by [RocketSeat](https://rocketseat.com.br/).
 
